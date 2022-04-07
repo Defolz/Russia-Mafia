@@ -1,0 +1,4 @@
+#Thu Apr 07 18:39:15 OMST 2022
+base.0=/Users/defolz/Russia Mafia — копия/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
